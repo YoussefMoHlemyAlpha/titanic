@@ -1,5 +1,4 @@
-# Machine Learning Final Project - Titanic Dataset Analysis &
-#Classification Algorithms
+# Machine Learning Final Project - Titanic Dataset Analysis & Classification Algorithms
 In this project, our objective is to conduct an in-depth exploration and analysis of the Titanic
 dataset. We use three distinct classification algorithms—K-Nearest Neighbors (KNN), Naive Bayes,
 and Support Vector Machine (SVM)—to forecast the survival outcomes of passengers aboard the
